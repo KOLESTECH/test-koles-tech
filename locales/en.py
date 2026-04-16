@@ -1,0 +1,18 @@
+LANG_EN = {
+    'welcome': "👋 Hi, {name}!\n\n🤖 I'm KOLES-TECH bot for post scheduling and AI content.\n\n💎 Your current tariff: {tariff}\n\n👇 Choose an action:",
+    'main_menu': "🤖 Main menu\n\n👇 Choose an action:",
+    'ai_services': "🤖 AI Services\n\n👇 Choose a service:",
+    'copywriter': "📝 AI Copywriter",
+    'ideas': "💡 Idea Generator",
+    'ai_limits': "📊 My AI limits",
+    'back': "⬅️ Back",
+    'cancel': "❌ Cancel",
+    'schedule_post': "📅 Schedule post",
+    'my_stats': "📊 My statistics",
+    'my_channels': "📢 My channels",
+    'tariffs': "💎 Tariffs",
+    'support': "🆘 Support",
+    'admin_panel': "👑 Admin panel",
+    'trial_info': "🌱 Trial period: {days_left} days",
+    'trial_expired': "❌ Trial period expired!",
+}
