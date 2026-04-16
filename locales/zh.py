@@ -1,0 +1,18 @@
+LANG_ZH = {
+    'welcome': "👋 你好, {name}!\n\n🤖 我是KOLES-TECH机器人，用于帖子规划和AI内容。\n\n💎 您当前的套餐：{tariff}\n\n👇 选择操作：",
+    'main_menu': "🤖 主菜单\n\n👇 选择操作：",
+    'ai_services': "🤖 AI服务\n\n👇 选择服务：",
+    'copywriter': "📝 AI文案",
+    'ideas': "💡 创意生成器",
+    'ai_limits': "📊 我的AI限制",
+    'back': "⬅️ 返回",
+    'cancel': "❌ 取消",
+    'schedule_post': "📅 计划帖子",
+    'my_stats': "📊 我的统计",
+    'my_channels': "📢 我的频道",
+    'tariffs': "💎 套餐",
+    'support': "🆘 支持",
+    'admin_panel': "👑 管理面板",
+    'trial_info': "🌱 试用期：{days_left}天",
+    'trial_expired': "❌ 试用期已结束！",
+}
